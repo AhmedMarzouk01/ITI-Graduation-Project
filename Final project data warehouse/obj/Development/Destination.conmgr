@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AHMEDMARZOUK_MSSQLSERVERDEV.finalProject_DataWarehouse"
+  DTS:DTSID="{B4930607-76C8-485E-AE16-230A47F1AF3F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=AHMEDMARZOUK\MSSQLSERVERDEV;Initial Catalog=finalProject_DataWarehouse;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Final project data warehouse-{B4930607-76C8-485E-AE16-230A47F1AF3F}AHMEDMARZOUK\MSSQLSERVERDEV.finalProject_DataWarehouse;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
